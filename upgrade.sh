@@ -73,4 +73,6 @@ do
 		fi
 	done
 done
+echo "DONE"
+exit 0
 
